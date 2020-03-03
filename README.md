@@ -6,10 +6,11 @@ Explanation:
 
 Input:
     1.	RB tree 1
+    
     2.	RB tree 2
     
 Output:
-    1.	New RB tree with values of both RB tree1 and RB Tree2 (Duplicate values will be discarded )
+    New RB tree with values of both RB tree1 and RB Tree2 (Duplicate values will be discarded )
 
 Observation:
    If we consider the black height of RB Tree1 as H1 and Black height of RB Tree2 as H2
