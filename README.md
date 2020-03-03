@@ -5,6 +5,7 @@ Explanation:
   This array is again given as an input to the other RB tree. The insert function of the RB tree is called in a loop until all the element of are entered.
 
 Input:
+
     1.	RB tree 1
     
     2.	RB tree 2
